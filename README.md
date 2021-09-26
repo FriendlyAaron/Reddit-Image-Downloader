@@ -19,7 +19,7 @@ This is a python script that downloads the top images of any suubreddit from Red
 
 ######  Installtion
 1. Download the latest python version from: https://www.python.org/downloads/
-2. Download the RedditImageFinder.py file
+2. Download the Reddit Image Finder.py file
 3. Use pip3 to install praw in the terminal:         
          
           pip3 install praw
