@@ -29,4 +29,5 @@ This is a python script that downloads the top images of any suubreddit from Red
 ## Gallery:
 <img width="634" alt="would you like to" src="https://user-images.githubusercontent.com/84158176/134793491-aaf7a0f0-4083-4167-aa74-e267397ed70e.png">
 
-<img width="668" alt="Screen Shot 2021-09-26 at 12 20 15 AM" src="https://user-images.githubusercontent.com/84158176/134793567-64869336-73f7-462d-8a51-362833dc4118.png">
+<img width="650" alt="Screen Shot 2021-09-26 at 12 20 55 AM" src="https://user-images.githubusercontent.com/84158176/134793582-83ecbf1b-2026-44c7-ba21-04751ecd8ece.png">
+
