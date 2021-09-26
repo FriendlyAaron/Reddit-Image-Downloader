@@ -29,8 +29,12 @@ This is a python script that downloads the top images of any suubreddit from Red
 
 ## Gallery:
 
+What happens after succesfully running the program.
+
 <img width="631" alt="File" src="https://user-images.githubusercontent.com/84158176/134793653-8f6c5c7d-aaf9-45f4-84ea-843f5d549f92.png">
 
-<img width="650" alt="Screen Shot 2021-09-26 at 12 20 55 AM" src="https://user-images.githubusercontent.com/84158176/134793582-83ecbf1b-2026-44c7-ba21-04751ecd8ece.png">
+<img width="642" alt="Screen Shot 2021-09-26 at 12 43 19 AM" src="https://user-images.githubusercontent.com/84158176/134793966-1a486f51-21d6-45f7-b521-641d772871ba.png">
 
-<img width="710" alt="Screen Shot 2021-09-26 at 12 28 04 AM" src="https://user-images.githubusercontent.com/84158176/134793701-c518b0b5-8376-4ede-a6f5-67615f2e5d48.png">
+What happens if no images are found.
+
+<img width="684" alt="Screen Shot 2021-09-26 at 12 46 58 AM" src="https://user-images.githubusercontent.com/84158176/134794032-109e1d4b-28e0-4e67-bde8-aad50ef26e42.png">
