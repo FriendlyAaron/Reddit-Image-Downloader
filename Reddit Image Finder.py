@@ -49,11 +49,11 @@ def checknum():
     else:
       raise ValueError
       
-      
-print ('Hello! I\'ll search hot posts on any subreddit and save thoses images on your computer!')
+     
 
 #Process
 def process():
+  print ('Hello! I\'ll search hot posts on any subreddit and save thoses images on your computer!')
   j = 'y'
   while j =='y' and j != 'n':    
     j = 'y'
