@@ -1,4 +1,4 @@
-# Reddit-Image-Downloader
+# Reddit Image Scraper Script
 This is a python script that downloads the top images of any suubreddit from Reddit. Useful if you want to download a bulk of images from a subreddit.
 ### Setup
 ###### Reddit App:
